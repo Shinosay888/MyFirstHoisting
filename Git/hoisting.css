@@ -1,0 +1,15 @@
+body {
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 50px;
+    padding: 25px;
+    border: double 5px red;
+}
+
+p {
+    font-size: medium;
+    font-weight: bold;
+    color: black;
+}
